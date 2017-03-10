@@ -1,2 +1,6 @@
 # hello-world
-just another repository
+
+Hi Humans!
+
+
+Swetha here, I like core java and advanced java.
